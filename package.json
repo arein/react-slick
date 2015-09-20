@@ -1,6 +1,6 @@
 {
   "name": "react-slick",
-  "version": "0.7.0",
+  "version": "0.8.0",
   "description": " React port of slick carousel",
   "main": "./lib",
   "scripts": {
@@ -67,7 +67,7 @@
     "slick-carousel": "^1.5.5"
   },
   "peerDependencies": {
-    "react": ">=0.13.*"
+    "react": ">=0.14.0-rc1"
   },
   "npmName": "react-slick",
   "npmFileMap": [
